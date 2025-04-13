@@ -1,5 +1,5 @@
 # RapidFetch
-#### RapidFetch is a lightweight and efficient command-line tool that allows you to quickly download files from remote locations. With its simple and intuitive interface, you can easily specify the URL of the file you want to download, as well as the name and location of the local file. RapidFetch uses the powerful curl utility under the hood, allowing you to take advantage of its advanced features such as resuming interrupted downloads and limiting download speeds.
+RapidFetch is a lightweight and efficient command-line tool that allows you to quickly download files from remote locations. With its simple and intuitive interface, you can easily specify the URL of the file you want to download, as well as the name and location of the local file. RapidFetch uses the powerful curl utility under the hood, allowing you to take advantage of its advanced features such as resuming interrupted downloads and limiting download speeds.
 
 ## Installation:
 To use RapidFetch, you must first have `curl` installed on your system. Most modern Linux and macOS systems should already have `curl` installed. To check if `curl` is installed, open a terminal window and type:
